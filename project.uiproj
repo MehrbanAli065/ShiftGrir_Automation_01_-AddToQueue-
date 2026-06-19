@@ -1,0 +1,6 @@
+{
+  "Name": "Jane_AddToQueue",
+  "ProjectType": "Process",
+  "Description": "Blank ProcessA helper for main Jane UiPath automation",
+  "MainFile": "Main.xaml"
+}
